@@ -13,3 +13,4 @@ CMakeUserPresets.json
 .idea
 charts
 *.txt
+cmake-build-debug
